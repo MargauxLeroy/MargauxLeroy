@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MargauxLeroy
-- 👀 I’m interested in UX/UI design and front-end developpement
-- 🌱 I’m currently learning to use JS frameworks
-- 💞️ I’m looking to deepen and learn new languages
+- 👀 I’m an UX/UI designer
+- 🌱 I’m currently learning JS and Dart/Flutter
 - 📫 You can reach me on my email adress margauxleroy@pm.me
 
 <!---
