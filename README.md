@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MargauxLeroy
-- 👀 I’m an UX/UI designer
-- 🌱 I’m currently learning JS and Dart/Flutter
+- 👀 I’m an software developper
+- 🌱 Retired designer
 - 📫 You can reach me on my email adress margauxleroy@pm.me
 
 <!---
